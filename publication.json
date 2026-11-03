@@ -1,0 +1,13 @@
+{
+  "repository": "Sad-Jack/dsh-context7-ru",
+  "package": "dsh-context7",
+  "version": "0.2.0-ru.3",
+  "upstream": "https://github.com/Nrxous/dsh-context7",
+  "upstreamVersion": "0.2.0",
+  "license": "Apache-2.0",
+  "snapshotType": "localized-runtime-package",
+  "originalRepositoryMetadata": {
+    "type": "git",
+    "url": "https://github.com/Nrxous/dsh-context7.git"
+  }
+}
